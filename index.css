@@ -1,7 +1,7 @@
-@import url(/CSS/header/header.css);
-@import url(/CSS/nav/nav.css);
-@import url(/CSS/footer/footer.css);
-@import url(/CSS/fonts/fonts.css);
+@import url(/header/header.css);
+@import url(/nav/nav.css);
+@import url(/footer/footer.css);
+@import url(/fonts/fonts.css);
 
 body{
     min-width: 1100px;
