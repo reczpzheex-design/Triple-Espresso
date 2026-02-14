@@ -1,0 +1,22 @@
+.nav{
+    position: absolute;
+    top: 30px;
+    right: 26px;
+    font-family: "Inter", "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+.nav__links{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.nav__item{
+    text-decoration: none;
+    color: inherit;
+}
+.nav__item:hover {
+    color:  #df4300;
+}
