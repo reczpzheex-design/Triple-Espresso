@@ -15,7 +15,7 @@ body{
     max-height: 800px;
     position: relative;
 }
-.header-title{
+.header__title{
     font-family: "Inter", "Arial", sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -37,7 +37,7 @@ body{
     line-height: 72px;
     color: #FF976B;
 }
-.header-description{
+.header__description{
     font-family: "Noto Serif", "Times New Roman", serif;
     font-style: normal;
     font-weight: normal;
@@ -48,17 +48,17 @@ body{
     left: 80px;
     max-width: 683px;
 }
-.header-hours{
+.header__hours{
     position: absolute;
     bottom: 40px;
     left: 80px;    
 }
-.header-address{
+.header__address{
     position: absolute;
     bottom: 40px;
     right: 80px;
 }
-.info-text{
+.info__text{
     font-family: "Inter", "Arial", sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -66,14 +66,14 @@ body{
     line-height: 20px;
     color:#6F6F6F;
 }
-.header-image{
+.header__image{
     position: absolute;
     top: 124px;
     right: 5px;
     width: 646px;
     height: 568px;
 }
-.logo{
+.header__logo{
     position: absolute; 
     top: 30px; 
     left: 30px; 
@@ -90,16 +90,16 @@ body{
     font-size: 16px;
     line-height: 20px;
 }
-.nav-links{
+.nav__links{
     display: flex;
     gap: 20px;
     list-style: none;
 }
-.nav-link{
+.nav__item{
     text-decoration: none;
     color: inherit;
 }
-.nav-link:hover {
+.nav__item:hover {
     color:  #df4300;
 }
 .footer{
