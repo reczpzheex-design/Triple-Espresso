@@ -1,8 +1,4 @@
-body{
-    min-width: 1100px;
-    max-width: 1600px;
-    margin: 0 auto;
-}
+
 
 .header{
     background-color: #FFFFFF;
@@ -28,15 +24,6 @@ body{
     max-width: 709px;
     margin: 0;
 }
-
-.span-accent{
-    font-family: "Noto Serif", "Times New Roman", serif;
-    font-style: italic;
-    font-weight: normal;
-    font-size: 58px;
-    line-height: 72px;
-    color: #FF976B;
-}
 .header__description{
     font-family: "Noto Serif", "Times New Roman", serif;
     font-style: normal;
@@ -58,14 +45,6 @@ body{
     bottom: 40px;
     right: 80px;
 }
-.info__text{
-    font-family: "Inter", "Arial", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 20px;
-    color:#6F6F6F;
-}
 .header__image{
     position: absolute;
     top: 124px;
@@ -79,29 +58,4 @@ body{
     left: 30px; 
     width: 105px;
     height: 39px;
-}
-.nav{
-    position: absolute;
-    top: 30px;
-    right: 26px;
-    font-family: "Inter", "Arial", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 20px;
-}
-.nav__links{
-    display: flex;
-    gap: 20px;
-    list-style: none;
-}
-.nav__item{
-    text-decoration: none;
-    color: inherit;
-}
-.nav__item:hover {
-    color:  #df4300;
-}
-.footer{
-    
 }
