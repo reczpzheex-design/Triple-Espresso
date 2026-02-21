@@ -1,0 +1,13 @@
+@import url(/styles/header/header.css);
+@import url(/styles/nav/nav.css);
+@import url(/styles/footer/footer.css);
+@import url(/styles/fonts/fonts.css);
+
+body{
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+
+
