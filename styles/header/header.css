@@ -2,7 +2,7 @@
 
 .header{
     background-color: #FFFFFF;
-    background-image:  url('background_header.svg');
+    background-image:  url("../../Images/background_header.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -38,7 +38,7 @@
 .header__hours{
     position: absolute;
     bottom: 40px;
-    left: 80px;    
+    left: 80px;
 }
 .header__address{
     position: absolute;
@@ -53,9 +53,9 @@
     height: 568px;
 }
 .header__logo{
-    position: absolute; 
-    top: 30px; 
-    left: 30px; 
+    position: absolute;
+    top: 30px;
+    left: 30px;
     width: 105px;
     height: 39px;
 }
