@@ -56,3 +56,7 @@ cursor: pointer;
 margin-bottom: 32px;
 }
 
+.form__button:hover{
+  color: #FFD6C5;
+}
+
