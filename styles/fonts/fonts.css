@@ -49,15 +49,20 @@ line-height: 20px;
 }
 
 .footer__social_title {
-font-family: “Inter”;
+font-family: "Inter", sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 16px;
 line-height: 20px;
 }
 
+.footer__social-link{
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+}
+
 .footer__copyright {
-  font-family: “Inter”;
+  font-family: "Inter";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
